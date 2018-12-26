@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "516699546735",
+    "firebase_url": "https://presupuestos-ab516.firebaseio.com",
+    "project_id": "presupuestos-ab516",
+    "storage_bucket": "presupuestos-ab516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516699546735:android:bbe93fe85570ae9b",
+        "android_client_info": {
+          "package_name": "com.gprg.presupuestos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516699546735-agk02j5701er7vlri6c1ogkv01ha3035.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYXNtwzrxETQy1S1-yxxQKz6EUJ3VMFAQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
